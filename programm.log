@@ -1,4 +1,4 @@
-19.02.2020 < -- > 18:50:34 [Levelname : INFO // Line number : 12] == > Info
-19.02.2020 < -- > 18:50:34 [Levelname : INFO // Line number : 13] == > Info 2
-19.02.2020 < -- > 18:50:34 [Levelname : ERROR // Line number : 16] == > Error
-19.02.2020 < -- > 18:50:34 [Levelname : ERROR // Line number : 17] == > Error 2
+20.02.2020 < - > 18:47:20 [ Level name : INFO || Line number : 11 ] === > Info
+20.02.2020 < - > 18:47:20 [ Level name : INFO || Line number : 12 ] === > Info 2
+20.02.2020 < - > 18:47:20 [ Level name : ERROR || Line number : 14 ] === > Error
+20.02.2020 < - > 18:47:20 [ Level name : ERROR || Line number : 15 ] === > Error 2

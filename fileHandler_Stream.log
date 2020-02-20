@@ -1,0 +1,8 @@
+20.02.2020 < - > 19:42:25 [ Level name : INFO || Line number : 22 ] == > Info
+20.02.2020 < - > 19:42:25 [ Level name : CRITICAL || Line number : 23 ] == > Critical
+20.02.2020 < - > 19:42:25 [ Level name : WARNING || Line number : 24 ] == > Warning
+20.02.2020 < - > 19:42:25 [ Level name : CRITICAL || Line number : 25 ] == > Fatal
+20.02.2020 < - > 19:42:25 [ Level name : INFO || Line number : 27 ] == > Info 2
+20.02.2020 < - > 19:42:25 [ Level name : CRITICAL || Line number : 28 ] == > Critical 2
+20.02.2020 < - > 19:42:25 [ Level name : WARNING || Line number : 29 ] == > Warning 2
+20.02.2020 < - > 19:42:25 [ Level name : CRITICAL || Line number : 30 ] == > Fatal 2
